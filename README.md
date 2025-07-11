@@ -110,10 +110,10 @@
 
 </td></tr></table>  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&theme=vue&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" border-radius="5%" alt="activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AImaniadev&theme=vue&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" border-radius="5%" alt="activity graph">
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhighcodestar&theme=nord_dark) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=vue" width="49.5%" />
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaniadev&theme=nord_dark) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaniadev&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaniadev&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaniadev&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AImaniadev&theme=vue" width="49.5%" />
