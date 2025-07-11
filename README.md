@@ -1,6 +1,7 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+
 
 <div align="center">
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
   <img algin="middle" src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20and%20Automation%20Specialist;Full%20Stack%20Development%20Expert;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"  width="58%" style="display:inline;">
