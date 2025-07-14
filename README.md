@@ -17,7 +17,7 @@
 
 <div align="left">
   
-## 🏆 My Ahievement
+## 🏆 My Achivement
 
 <div align="center">
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
