@@ -1,4 +1,4 @@
-<h2 align="center">🚀 Senior Software Engineer | Python/Django | AI | JavaScript</h2>
+<h2 align="center">🚀 Senior Software Engineer | Web Development | Python/Django | AI | JavaScript</h2>
 
 <p align="center">
   Building intelligent, scalable, and secure applications with a passion for automation and clean code.
@@ -17,7 +17,7 @@
 
 <div align="left">
   
-## 🏆 My Achivement
+## 🏆 My Achievements
 
 <div align="center">
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
