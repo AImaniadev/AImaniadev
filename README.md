@@ -11,7 +11,7 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dreamhighportfolio.netlify.app)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@christophercald621)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopher.cald621@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris.cald0619@gmail.com)
   
 <img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" height="300px" width="100%" />
 
