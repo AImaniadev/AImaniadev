@@ -9,9 +9,7 @@
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
   <img algin="middle" src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;Full%20Stack%20Development%20Expert;AI%20and%20Automation%20Specialist;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"  width="58%" style="display:inline;">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-xi-drab-58.vercel.app)
-[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@christophercald621)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris.cald0619@gmail.com)
+
   
 <img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" height="300px" width="100%" />
 
