@@ -26,8 +26,6 @@
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" alt="Pair Extraordinaire" width="60">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" alt="Galaxy Brain" width="60">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" alt="Public Sponsor" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" alt="Heart On Your Sleeve" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" alt="Open Sourcerer" width="60">
 </div>
 
 <table><tr><td valign="top" width="33%">
