@@ -16,7 +16,7 @@
 <div align="left">
   
 ## 🏆 My Achievements
-
+<h1 align="center">⭐ Let's make Success Together!⭐<img src="https://komarev.com/ghpvc/?username=0xcryptofire&label=Profile%20views&color=0e75b6&style=flat" alt="0xcryptofire" /></h1>
 <div align="center">
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
