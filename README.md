@@ -1,5 +1,6 @@
 <h2 align="center">🚀 Senior Software Engineer | Web Development | Python/Django | AI | JavaScript</h2>
 
+/*
 <p align="center">
   Building intelligent, scalable, and secure applications with a passion for automation and clean code.
 </p>
@@ -12,7 +13,7 @@
 
   
 <img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" height="300px" width="100%" />
-
+*/
 <div align="left">
 <h1 align="center">⭐ Let's make Success Together!⭐<img src="https://komarev.com/ghpvc/?username=AImaniadev&label=Profile%20views&color=0e75b6&style=flat" alt="AImaniadev" /></h1>
 <div align="center">
