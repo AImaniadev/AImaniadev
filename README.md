@@ -1,19 +1,5 @@
 <h2 align="center">🚀 Senior Software Engineer | Web Development | Python/Django | AI | JavaScript</h2>
 
-/*
-<p align="center">
-  Building intelligent, scalable, and secure applications with a passion for automation and clean code.
-</p>
-
-<div align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-  <img algin="middle" src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;Full%20Stack%20Development%20Expert;AI%20and%20Automation%20Specialist;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"  width="58%" style="display:inline;">
-  
-
-  
-<img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" height="300px" width="100%" />
-*/
 <div align="left">
 <h1 align="center">⭐ Let's make Success Together!⭐<img src="https://komarev.com/ghpvc/?username=AImaniadev&label=Profile%20views&color=0e75b6&style=flat" alt="AImaniadev" /></h1>
 <div align="center">
