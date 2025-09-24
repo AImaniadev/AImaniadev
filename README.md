@@ -17,19 +17,6 @@
 
 <table><tr><td valign="top" width="33%">
 
-### 🎨 Frontend Development
-
-  <div align="center">  
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Nuxt.js" />
-    <img src="https://github.com/tailwindlabs.png?size=40" width="48" height="48" alt="Tailwind CSS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
-  </div>
-
 </td><td valign="top" width="33%">
 
 ### ⚡ Backend Development
