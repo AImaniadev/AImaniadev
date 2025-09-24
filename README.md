@@ -3,19 +3,21 @@
 <div align="left">
 <h1 align="center">⭐ Let's make Success Together!⭐<img src="https://komarev.com/ghpvc/?username=AImaniadev&label=Profile%20views&color=0e75b6&style=flat" alt="AImaniadev" /></h1>
 <div align="center">
-## 🏆 My Achievements
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Starstruck" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Pull-Shark/PNG/PullShark.png" alt="Pull Shark" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" alt="Pair Extraordinaire" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" alt="Galaxy Brain" width="60">
-    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" alt="Public Sponsor" width="60">
-</div>
 
 <table><tr><td valign="top" width="33%">
+
+### 🎨 Frontend Development
+
+  <div align="center">  
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Nuxt.js" />
+    <img src="https://github.com/tailwindlabs.png?size=40" width="48" height="48" alt="Tailwind CSS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+  </div>
 
 </td><td valign="top" width="33%">
 
