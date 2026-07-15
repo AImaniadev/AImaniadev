@@ -1,4 +1,4 @@
-<h2 align="center">🚀 Senior Software Engineer | Web Development | Python/Django | AI | JavaScript</h2>
+<!-- <h2 align="center">🚀 Senior Software Engineer | Web Development | Python/Django | AI | JavaScript</h2>
 
 <div align="left">
 <h1 align="center">⭐ Let's make Success Together!⭐<img src="https://komarev.com/ghpvc/?username=AImaniadev&label=Profile%20views&color=0e75b6&style=flat" alt="AImaniadev" /></h1>
@@ -89,6 +89,7 @@
 </td></tr></table>  
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AImaniadev&theme=vue&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" border-radius="5%" alt="activity graph">
+-->
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaniadev&theme=nord_dark) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaniadev&theme=vue" width="49.5%" />
